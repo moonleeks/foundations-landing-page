@@ -160,6 +160,12 @@ button {
     width: 100px;
     height: 40px;
     border-radius: 10px;
+    color: white;
+}
+
+button,
+.call {
+    background-color: #3882f6;
 }
 
 .hero button {
@@ -167,12 +173,7 @@ button {
 }
 
 .call button {
-    border-color: #e5e7eb;
+    border-color: white;
     border-style: solid;
 }
 
-button,
-.call {
-    background-color: #3882f6;
-    color: #e5e7eb;
-}
